@@ -1,7 +1,7 @@
 # CSS-responsive
 latihan 1
-![Alt Text](https://github.com/yuliusjati/CSS-responsive/blob/master/CSS%20responsive%201.html
-pada latihan1 terjadi pada background, yaitu warna background akan berubah sesuai dengan ukurannya)
+![Alt Text](https://github.com/yuliusjati/CSS-responsive/blob/master/CSS%20responsive%201.html)
+pada latihan1 terjadi pada background, yaitu warna background akan berubah sesuai dengan ukurannya
 latihan 2
 ![Alt Text](https://github.com/yuliusjati/CSS-responsive/blob/master/CSS%20responsive%202.html)
 pada latihan2 setiap tabel akan berbeda sesuai ukuran yang awalnya horizontal tetapi ketika mengecil menjadi vertikal
